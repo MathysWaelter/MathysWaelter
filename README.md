@@ -83,8 +83,9 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://imgflip.com/i/7v39m5"  />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathyswaelter&show_icons=true&locale=en&layout=compact" alt="mathyswaelter" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathyswaelter&show_icons=true&theme=dark&locale=en" alt="mathyswaelter" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathyswaelter&" alt="mathyswaelter" /></p>
 ###
