@@ -18,9 +18,9 @@
 <h1 align="center">Hi 👋, Welcome on my GitHub</h1>
 
 ###
-
+<div align="center">
 <a href="https://imgflip.com/i/7v39m5"><img src="https://i.imgflip.com/7v39m5.jpg" width="300" height="250" text-align="center" /></a><div></div>
-
+</div>
 ###
 
 <h3 align="center">A passionate data scientist student from France, Toulouse</h3>
