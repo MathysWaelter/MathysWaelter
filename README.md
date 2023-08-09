@@ -18,10 +18,7 @@
 <h1 align="center">Hi 👋, Welcome on my GitHub</h1>
 
 ###
-<div align="center">
-<a href="https://imgflip.com/i/7v39m5"><img src="https://i.imgflip.com/7v39m5.jpg" width="200" height="150"/></a><div></div>
-</div>
-###
+
 
 <h3 align="center">A passionate data scientist student from France, Toulouse</h3>
 
@@ -91,5 +88,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathyswaelter&show_icons=true&theme=dark&locale=en" alt="mathyswaelter" /></p>
 
+<div align="center">
+<a href="https://imgflip.com/i/7v39m5"><img src="https://i.imgflip.com/7v39m5.jpg" width="200" height="150"/></a><div></div>
+</div>
 
 
