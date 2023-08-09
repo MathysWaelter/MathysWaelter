@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Statistical classification**
 
-- 👯 I’m looking to collaborate on **on creation off our own model**
+- 👯 I’m looking to collaborate on **creation off our own model**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MathysWaelter?tab=repositories](https://github.com/MathysWaelter?tab=repositories)
 
