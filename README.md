@@ -87,3 +87,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathyswaelter&show_icons=true&theme=dark&locale=en" alt="mathyswaelter" /></p>
 
+<a href="https://imgflip.com/i/7v39m5"><img src="https://i.imgflip.com/7v39m5.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+
