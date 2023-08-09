@@ -19,6 +19,10 @@
 
 ###
 
+<a href="https://imgflip.com/i/7v39m5"><img align="center" src="https://i.imgflip.com/7v39m5.jpg" width="300" height="250" /></a><div></div>
+
+###
+
 <h3 align="center">A passionate data scientist student from France, Toulouse</h3>
 
 ###
@@ -87,5 +91,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathyswaelter&show_icons=true&theme=dark&locale=en" alt="mathyswaelter" /></p>
 
-<a href="https://imgflip.com/i/7v39m5"><img align="center" src="https://i.imgflip.com/7v39m5.jpg" width="300" height="250" /></a><div></div>
+
 
