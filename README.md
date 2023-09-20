@@ -84,9 +84,8 @@
 
 ###
 
-<p><img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathyswaelter&bg_color=00000000&show_icons=true&locale=en&layout=compact&hide_border=true" alt="mathyswaelter" /></p>
-
-<p>&nbsp;<img height="155em" src="https://github-readme-stats.vercel.app/api?username=mathyswaelter&theme=transparent&show_icons=true&locale=en&hide_border=true" alt="mathyswaelter" /></p>
+<p align="center"><img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathyswaelter&bg_color=00000000&show_icons=true&locale=en&layout=compact&hide_border=true" alt="mathyswaelter" />
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=mathyswaelter&theme=transparent&show_icons=true&locale=en&hide_border=true" alt="mathyswaelter" /></p>
 
 <div align="center">
 <a href="https://imgflip.com/i/7v39m5"><img src="https://i.imgflip.com/7v39m5.jpg" width="200" height="150"/></a><div></div>
