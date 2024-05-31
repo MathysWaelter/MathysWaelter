@@ -28,7 +28,9 @@
 
 ###
 
-<p align="left">I'm Mathys from France , Toulouse<br><br>- 🔭 I’m currently working on probability<br><br>- 👯 I’m looking to collaborate on creation off our own model<br><br>- 📚 I'm currently learning Statistical classification<br><br>- ⚡ In my free time, I am passionate about video games, taking care of animals  and producing music<br><br>- 👨‍💻 All of my projects are available at https://github.com/MathysWaelter?tab=repositories</p>
+<p align="left">I'm Mathys from France , Toulouse<br><br>- 🔭 I’m currently working on probability<br><br>- 👯I am currently working on the network part of cyber security<br><br>
+
+- 👯 I am looking to collaborate in the creation of our own secure network model<br><br>- ⚡ In my free time, I am passionate about video games, taking care of animals  and producing music<br><br>- 👨‍💻 All of my projects are available at https://github.com/MathysWaelter?tab=repositories</p>
 
 ###
 
